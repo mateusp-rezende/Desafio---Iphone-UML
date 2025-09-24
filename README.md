@@ -1,5 +1,8 @@
 # Desafio DIO: Modelagem e Implementação de um iPhone (POO)
 
+<img width="643" height="683" alt="image" src="https://github.com/user-attachments/assets/9f0124f5-381e-4204-bb9e-eeaba2b8c249" />
+
+
 ## 🚀 Visão Geral do Projeto
 
 Este repositório contém a solução para o desafio de Programação Orientada a Objetos (POO) da trilha Java Básico da **Digital Innovation One (DIO)**. O objetivo foi modelar o dispositivo iPhone, garantindo que ele possa executar seus três papéis centrais: **Reprodutor Musical**, **Aparelho Telefônico** e **Navegador na Internet**, utilizando o princípio de **Interfaces**.
@@ -44,3 +47,4 @@ A rotina de testes (método `main`) simulará a inicialização do iPhone e a ex
 ---
 
 *Feito com ☕ e POO.*
+
